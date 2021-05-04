@@ -7,7 +7,7 @@ if block_given?
     i = i + 1
   end
 
-  array
+  collection
 else
   puts "This block should not run!"
 end
