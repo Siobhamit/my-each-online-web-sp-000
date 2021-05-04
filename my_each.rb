@@ -9,6 +9,6 @@ if block_given?
 
   collection
 else
-  puts "This block should not run!"
+  returns "This block should not run!"
 end
 end
